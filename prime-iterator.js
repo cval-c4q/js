@@ -4,9 +4,11 @@
  *
  *  Usage:
  *      const PrimeIterator = require('prime-iterator');
- *      let pi = PrimeIterator(2);
+ *      let pi = PrimeIterator.PrimeIterator(2);
  *      while (true)
  *      	pi();
+ *      if (PrimeIterator.isPrime(Math.random())
+ *      	....;
  */
 
 /*
@@ -38,10 +40,13 @@ function PrimeIterator(start = 2) {
 	let current = Math.abs(start);
 	return function() {
 		do {
-			if (isPrime(++current))
-				return current;
+			if (isPrime(current))
+				return current++;
+			else
+				current++;
 		} while (true);
 	}
 }
 
-module.exports = PrimeIterator;
+module.exports.PrimeIterator = PrimeIterator;
+module.exports.isPrime = isPrime;
