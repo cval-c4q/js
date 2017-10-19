@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<title></title>
+<style>
+#terminal {
+	background-color: black;
+	color: white;
+	resize: none;
+	font-size: 20px;
+}
+</style>
+	</head>
+	<body onkeydown="kp(event)">
+	<textarea id="terminal" disabled="true" rows="25" cols="80" wrap="none"></textarea>
+	<script src="terminal.js"></script>
+	<script>
+		var term = new Terminal({element: document.getElementById('terminal'), prompt: "$ "});
+		var line = []
+
+		term.log("Hello, World!\n");
+		term.prompt();
+
+		function kp(event) {
+			var key = event.key;
+			if (key === 'Enter') {
+				processLine(line.join(''));
+				line = []
+			} else if (key === 'Backspace' && line.length > 0) {
+				line.pop();
+				term.backspace();
+			} else if (/^.$/.test(key) === true) {
+				term.log(key);
+				line.push(key);
+			}
+		}
+
+		function processLine(line) {
+			if (line.toLowerCase() === 'clear') {
+				term.clear();
+				term.prompt();
+			} else {
+				term.log('\n');
+				term.prompt();
+			}
+		}
+	</script>
+	</body>
+</html>
