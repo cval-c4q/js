@@ -1,5 +1,5 @@
 /**
- *   Demo JavaScript manually implemented prototype-based polymorphism
+ *   Demo JavaScript manually implemented prototype-based inheritance
  */
 
 function Shape(id) { // Shape `class' constructor
