@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dynamic Memeory Manager Visualizations</title>
+		<script type="text/javascript" src="terminal.js"></script>
+		<script type="text/javascript" src="range.js"></script>
+<style>
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.FreeRect {
+	fill: #ccc;
+	stroke: black;
+}
+
+.BusyRect {
+	fill: #FFA500;
+	stroke: black;
+}
+
+#container {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-rows: 40% 20% 40%;
+}
+#frag-div {
+	border: 1px gray;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#dashboard {
+	margin: 16px 0px 16px 0px;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#terminal {
+	padding: 0;
+	margin: 16px 0px 16px 0px;
+	box-sizing: border-box;
+}
+</style>
+
+	</head>
+	<body>
+		<div id="container">
+			<svg id="frag-div" width="100%" height="100%"></svg>
+			<form id="dashboard">
+				<fieldset>
+					<legend>malloc</legend>
+					<input type="number" id="malloc-size">
+					<label for="malloc-size">Allocation size</label>
+					<button onclick="doMalloc">Allocate</button>
+				</fieldset>
+				<fieldset>
+					<legend>Free</legend>
+					<input type="number" id="free-ptr">
+					<label for="free-ptr">Free address</label>
+					<button onclick="doFree">Free</button>
+				</fieldset>
+				<fieldset>
+					<legend>Fuzz!</legend>
+					<button id="start-pause" onclick="doStartPause">Start</button>
+					<button id="reset" onclick="doReset">Reset</button>
+					<input type="number" id="anim-speed">
+					<label for="anim-speed">Vis. Speed</label>
+				</fieldset>
+			</form>
+			<textarea id="terminal" readonly="true" rows="25" cols="80" wrap="none" ></textarea>
+		</div>
+	</body>
+
+	<script>
+const BLOCK_SIZE = 16;    // block granularity in bytes
+const STATIC_SIZE = 64*8; // static size of memory, in blocks
+const SVG_NS = "http://www.w3.org/2000/svg";
+
+document.addEventListener("DOMContentLoaded", function(ev) {
+	window._g = Object.create( {
+		fragDiv: {
+			element: document.querySelector("#frag-div"),
+			width: undefined, // pixels, dynamic
+			height: undefined, // pixels, dynamic
+			rects: [],
+			border: undefined, // SVG rect, frame
+		},
+		dashboard: {
+			mallocSize: document.querySelector("#malloc-size"),
+			freePtr: document.querySelector("#free-ptr"),
+			animSpeed: document.querySelector("#anim-speed"),
+		},
+		terminal: new Terminal({
+			element: document.querySelector("#terminal"),
+			rows: undefined,
+			cols: undefined,
+			prompt: "",
+		}),
+	});
+
+	// validate real quick
+	for (let p of Reflect.ownKeys(window._g))
+		console.assert(typeof window._g[p] !== "undefined");
+
+	_g.terminal.log("Initializing memory layout...\n");
+	_g.memory = Array.from(new Range(0, STATIC_SIZE-1)).map(idx => new Object({
+		idx,
+		limits: {
+			lo: idx * BLOCK_SIZE,
+			hi: (idx + 1) * BLOCK_SIZE - 1,
+		},
+	}));
+	_g.terminal.log(` * Static memory size: ${_g.memory.length} blocks, block size: ${BLOCK_SIZE} bytes\n`);
+
+	_g.terminal.log("\nInitializing visualization grid...\n");
+
+	_g.fragDiv.rects = _g.memory.map(b => {
+		let r = document.createElementNS(SVG_NS, "rect");
+		r.setAttribute("class", "FreeRect");
+		r.setAttribute("rx", "1");
+		r.setAttribute("ry", "1");
+		return r;
+	});
+
+	// frame border rect
+	_g.fragDiv.border = document.createElementNS(SVG_NS, "rect");
+	_g.fragDiv.element.appendChild(_g.fragDiv.border);
+
+	_g.fragDiv.rects.forEach(r => _g.fragDiv.element.appendChild(r));
+
+	window.dispatchEvent(new Event("resize"));
+	updateViz();
+});
+
+let dbgTimeout = undefined;
+function resizeView() {
+	/* Make width and height track changes in element's corresponding attribs
+	   These are maintained here as to simplify code */
+	_g.fragDiv.width = _g.fragDiv.element.width.baseVal.value | 0;
+	_g.fragDiv.height = _g.fragDiv.element.height.baseVal.value | 0;
+
+	/* Regenerate display layout:
+	   * Rects as well as margins between rects have constant dimensions
+	   * Number of Rects per display line can vary
+	   * Rects along with margins will be center on line
+	 */
+	const RECT_DIM = 16; // pixels
+	const RECT_GAP = 4; // pixels
+	const MARGIN_TOP = 32; // pixels
+	const MARGIN_LR = 32; // line left and right margin, per line
+
+	const maxRectsPerLine = ((_g.fragDiv.width - MARGIN_LR * 2) / (RECT_DIM + RECT_GAP)) | 0;
+	_g.terminal.log(" * " + maxRectsPerLine + " rects per line\n");
+
+	_g.fragDiv.rects.forEach((r, idx) => {
+		r.setAttribute("width", RECT_DIM);
+		r.setAttribute("height", RECT_DIM);
+		r.setAttribute("x", MARGIN_LR + (idx % maxRectsPerLine | 0) * (RECT_DIM + RECT_GAP));
+		r.setAttribute("y", MARGIN_TOP + (idx / maxRectsPerLine | 0) * (RECT_DIM + RECT_GAP));
+	});
+
+	if (dbgTimeout !== undefined)
+		clearTimeout(dbgTimeout);
+	dbgTimeout = setTimeout(function() {
+		_g.terminal.log(" * Display size set to " + _g.fragDiv.width + "x" + _g.fragDiv.height + " pixels.\n");
+		dbgTimeout = undefined;
+	}, 1000);
+}
+
+window.addEventListener("resize", function(ev) {
+	resizeView();
+});
+
+function updateViz() {
+}
+</script>
+</html>
+<!-- vi: set ts=4 sw=4 ai:-->
