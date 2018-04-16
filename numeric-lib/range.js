@@ -39,6 +39,8 @@ function Range(from, to, step=1) {
 		}();
 	}});
 
+	Object.defineProperty(thisObj, "constructor", { value: Range });
+	Object.defineProperty(thisObj, "toString", { value: () => `Range[${from}..${to}]` });
 	return thisObj;
 }
 
