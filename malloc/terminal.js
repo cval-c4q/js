@@ -1,5 +1,7 @@
 
 /**
+ *  Vanilla DOM Terminal component, uses a DOM component such as a textarea
+ *  as `backend'.
  *  @param {Object} paramObj - configuration for new terminal instance :
  *      paramObj {
  *          element: <HTMLElement>,

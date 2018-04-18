@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="utf-8">
 		<title>Dynamic Memeory Manager Visualizations</title>
 		<script type="text/javascript" src="terminal.js"></script>
 		<script type="text/javascript" src="range.js"></script>
-<style>
+		<script type="text/javascript" src="https://unpkg.com/human-format@0.10.0/index.js"></script>
+		<style>
 body {
 	padding: 0;
 	margin: 0;
@@ -47,22 +49,22 @@ body {
 	margin: 16px 0px 16px 0px;
 	box-sizing: border-box;
 }
-</style>
+		</style>
 
 	</head>
 	<body>
 		<div id="container">
 			<svg id="frag-div" width="100%" height="100%"></svg>
-			<form id="dashboard">
+			<form id="dashboard" onsubmit="(ev) => ev.PreventDefault()">
 				<fieldset>
 					<legend>malloc</legend>
-					<input type="number" id="malloc-size">
+					<input type="number" id="malloc-size" value="0" min="0" step="1">
 					<label for="malloc-size">Allocation size</label>
 					<button onclick="doMalloc">Allocate</button>
 				</fieldset>
 				<fieldset>
-					<legend>Free</legend>
-					<input type="number" id="free-ptr">
+					<legend>free</legend>
+					<input type="number" id="free-ptr" value="0" min="0" step="1">
 					<label for="free-ptr">Free address</label>
 					<button onclick="doFree">Free</button>
 				</fieldset>
@@ -79,7 +81,7 @@ body {
 	</body>
 
 	<script>
-const BLOCK_SIZE = 16;    // block granularity in bytes
+		const BLOCK_SIZE = 16;    // block granularity in bytes
 const STATIC_SIZE = 64*8; // static size of memory, in blocks
 const SVG_NS = "http://www.w3.org/2000/svg";
 
@@ -103,6 +105,10 @@ document.addEventListener("DOMContentLoaded", function(ev) {
 			cols: undefined,
 			prompt: "",
 		}),
+		memory: {
+			blocks: undefined,	// Array, abstract representation of underlying buffer
+			buffer: undefined,	// Raw octet buffer
+		},
 	});
 
 	// validate real quick
@@ -110,18 +116,21 @@ document.addEventListener("DOMContentLoaded", function(ev) {
 		console.assert(typeof window._g[p] !== "undefined");
 
 	_g.terminal.log("Initializing memory layout...\n");
-	_g.memory = Array.from(new Range(0, STATIC_SIZE-1)).map(idx => new Object({
-		idx,
-		limits: {
-			lo: idx * BLOCK_SIZE,
-			hi: (idx + 1) * BLOCK_SIZE - 1,
-		},
-	}));
-	_g.terminal.log(` * Static memory size: ${_g.memory.length} blocks, block size: ${BLOCK_SIZE} bytes\n`);
+	_g.memory = {
+		blocks: Array.from(new Range(0, STATIC_SIZE-1)).map(idx => new Object({
+			idx,
+			limits: {
+				lo: idx * BLOCK_SIZE,
+				hi: (idx + 1) * BLOCK_SIZE - 1,
+			},
+		})),
+		buffer: new Uint8ClampedArray(BLOCK_SIZE * STATIC_SIZE),
+	};
+	_g.terminal.log(` * Static memory size: ${_g.memory.blocks.length} blocks, block size: ${BLOCK_SIZE} bytes, total: ${_g.memory.buffer.length} (${humanFormat(_g.memory.buffer.length, {scale: "binary", unit: "B"})})\n`);
 
 	_g.terminal.log("\nInitializing visualization grid...\n");
 
-	_g.fragDiv.rects = _g.memory.map(b => {
+	_g.fragDiv.rects = _g.memory.blocks.map(b => {
 		let r = document.createElementNS(SVG_NS, "rect");
 		r.setAttribute("class", "FreeRect");
 		r.setAttribute("rx", "1");
@@ -147,9 +156,9 @@ function resizeView() {
 	_g.fragDiv.height = _g.fragDiv.element.height.baseVal.value | 0;
 
 	/* Regenerate display layout:
-	   * Rects as well as margins between rects have constant dimensions
-	   * Number of Rects per display line can vary
-	   * Rects along with margins will be center on line
+	 * Rects as well as margins between rects have constant dimensions
+	 * Number of Rects per display line can vary
+	 * Rects along with margins will be center on line
 	 */
 	const RECT_DIM = 16; // pixels
 	const RECT_GAP = 4; // pixels
@@ -157,7 +166,6 @@ function resizeView() {
 	const MARGIN_LR = 32; // line left and right margin, per line
 
 	const maxRectsPerLine = ((_g.fragDiv.width - MARGIN_LR * 2) / (RECT_DIM + RECT_GAP)) | 0;
-	_g.terminal.log(" * " + maxRectsPerLine + " rects per line\n");
 
 	_g.fragDiv.rects.forEach((r, idx) => {
 		r.setAttribute("width", RECT_DIM);
@@ -170,6 +178,7 @@ function resizeView() {
 		clearTimeout(dbgTimeout);
 	dbgTimeout = setTimeout(function() {
 		_g.terminal.log(" * Display size set to " + _g.fragDiv.width + "x" + _g.fragDiv.height + " pixels.\n");
+		_g.terminal.log(" * " + maxRectsPerLine + " rects per line\n");
 		dbgTimeout = undefined;
 	}, 1000);
 }
@@ -180,6 +189,22 @@ window.addEventListener("resize", function(ev) {
 
 function updateViz() {
 }
-</script>
+
+function doMalloc(ev) {
+	alert("doMalloc()");
+}
+
+function doFree(ev) {
+	alert("doFree()");
+}
+
+function doStartPause(ev) {
+	alert("doStartPause()");
+}
+
+function doReset(ev) {
+	alert("doReset()");
+}
+	</script>
 </html>
 <!-- vi: set ts=4 sw=4 ai:-->
