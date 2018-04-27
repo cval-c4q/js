@@ -4,10 +4,14 @@
  *
  *  Usage:
  *      const PrimeFactory = require('prime-factory');
- *      let pf = PrimeFactory(2)
+ *      let pf = [new] PrimeFactory(start=2, end=undefined)
  *      for (let p of pf) console.log('Next prime number:", p);
  *      if (pf.isPrime(Math.random())
  *      	....;
+ *	Both start and end arguments must be >2 and have default values
+ *	of 2 and undefined, respectively. an end value of undefined causes
+ *	the interface to generate primes ad-infinitum.
+ *
  */
 
 /*
@@ -35,27 +39,33 @@ function isPrime(num) {
  * @param {number} - start returning primes >= |this value|
  * @returns {function} - iterator
  */
-function PrimeIterator(start = 2) {
+function PrimeIterator(start = 2, end) {
 	let current = Math.abs(start);
 	return {
 		next: function() {
-			do {
-				if (isPrime(current))
-					return { value: current++, done: false };
-				else
-					current++;
-			} while (true);
+			while (!isPrime(current))
+				current++;
+
+			if (typeof end == "undefined" || current <= end) {
+				return { value: current++, done: false };
+			} else
+				return { value: undefined, done: true };
 		}
 	}
 }
 
-function PrimeFactory(start=2) {
+function PrimeFactory(start=2, end) {
 	if (typeof start !== 'number')
-		throw new TypeError("PrimeFactory: expected numeric argument.");
+		throw new TypeError("expected numeric lower bound.");
+	if (!(typeof end == "undefined" || typeof end == "number"))
+		throw new TypeError("expected numeric upper bound.");
 	if (start < 2)
-		throw new RangeError("PrimeFactory: invalid lower bound for prime generation. Expected >= 2.");
+		throw new RangeError("invalid lower bound. Expected >= 2.");
+	if (typeof end == "number" && end  < 2)
+		throw new RangeError("invalid upper bound. Expected >= 2.");
+
 	return {
-		[Symbol.iterator]: PrimeIterator(start),
+		[Symbol.iterator]: PrimeIterator.bind(this, start, end),
 		isPrime
 	}
 }
