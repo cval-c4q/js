@@ -21,14 +21,12 @@
  * @returns {boolean}
  */
 function isPrime(num) {
-	let div = num / 2 | 0;
-	if (num < 2)
+	if (num < 2 || num > 2 && num & 0b1 == 0b0)
 		return false;
-	while (div > 1) {
+	const upper = num / 2 | 0;
+	for (let div = 3; div <= upper; div++)
 		if (num % div === 0)
 			return false;
-		div--;
-	}
 	return true;
 }
 
