@@ -1,0 +1,9129 @@
+[
+  {
+    "firstName": "Wilhelm Conrad",
+    "lastName": "Röntgen",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Hendrik Antoon",
+    "lastName": "Lorentz",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Pieter",
+    "lastName": "Zeeman",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Antoine Henri",
+    "lastName": "Becquerel",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Curie",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Curie, née Sklodowska",
+    "bornCountry": "Russian Empire (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "female",
+    "prizes": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Lord Rayleigh",
+    "lastName": "(John William Strutt)",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Philipp Eduard Anton",
+    "lastName": "von Lenard",
+    "bornCountry": "Hungary (now Slovakia)",
+    "bornCountryCode": "SK",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Joseph John",
+    "lastName": "Thomson",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Albert Abraham",
+    "lastName": "Michelson",
+    "bornCountry": "Prussia (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Lippmann",
+    "bornCountry": "Luxembourg",
+    "bornCountryCode": "LU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Guglielmo",
+    "lastName": "Marconi",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Karl Ferdinand",
+    "lastName": "Braun",
+    "bornCountry": "Hesse-Kassel (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Johannes Diderik",
+    "lastName": "van der Waals",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Wien",
+    "bornCountry": "Prussia (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Nils Gustaf",
+    "lastName": "Dalén",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Heike",
+    "lastName": "Kamerlingh Onnes",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Max",
+    "lastName": "von Laue",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sir William Henry",
+    "lastName": "Bragg",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "William Lawrence",
+    "lastName": "Bragg",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Charles Glover",
+    "lastName": "Barkla",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Max Karl Ernst Ludwig",
+    "lastName": "Planck",
+    "bornCountry": "Schleswig (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Johannes",
+    "lastName": "Stark",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Charles Edouard",
+    "lastName": "Guillaume",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Einstein",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Niels Henrik David",
+    "lastName": "Bohr",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Robert Andrews",
+    "lastName": "Millikan",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Karl Manne Georg",
+    "lastName": "Siegbahn",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Franck",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Gustav Ludwig",
+    "lastName": "Hertz",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jean Baptiste",
+    "lastName": "Perrin",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Arthur Holly",
+    "lastName": "Compton",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Charles Thomson Rees",
+    "lastName": "Wilson",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Owen Willans",
+    "lastName": "Richardson",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Prince Louis-Victor Pierre Raymond",
+    "lastName": "de Broglie",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sir Chandrasekhara Venkata",
+    "lastName": "Raman",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Werner Karl",
+    "lastName": "Heisenberg",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Erwin",
+    "lastName": "Schrödinger",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Paul Adrien Maurice",
+    "lastName": "Dirac",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Chadwick",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Victor Franz",
+    "lastName": "Hess",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Carl David",
+    "lastName": "Anderson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Clinton Joseph",
+    "lastName": "Davisson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "George Paget",
+    "lastName": "Thomson",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Enrico",
+    "lastName": "Fermi",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Ernest Orlando",
+    "lastName": "Lawrence",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Stern",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Isidor Isaac",
+    "lastName": "Rabi",
+    "bornCountry": "Austria-Hungary (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Wolfgang",
+    "lastName": "Pauli",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Percy Williams",
+    "lastName": "Bridgman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sir Edward Victor",
+    "lastName": "Appleton",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Patrick Maynard Stuart",
+    "lastName": "Blackett",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Hideki",
+    "lastName": "Yukawa",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Cecil Frank",
+    "lastName": "Powell",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sir John Douglas",
+    "lastName": "Cockcroft",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Ernest Thomas Sinton",
+    "lastName": "Walton",
+    "bornCountry": "Ireland",
+    "bornCountryCode": "IE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Bloch",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Edward Mills",
+    "lastName": "Purcell",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Frits",
+    "lastName": "Zernike",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Born",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Walther",
+    "lastName": "Bothe",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Willis Eugene",
+    "lastName": "Lamb",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Polykarp",
+    "lastName": "Kusch",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "William Bradford",
+    "lastName": "Shockley",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Bardeen",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics",
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Walter Houser",
+    "lastName": "Brattain",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Chen Ning",
+    "lastName": "Yang",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Tsung-Dao (T.D.)",
+    "lastName": "Lee",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Pavel Alekseyevich",
+    "lastName": "Cherenkov",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Igor Yevgenyevich",
+    "lastName": "Tamm",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Emilio Gino",
+    "lastName": "Segrè",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Chamberlain",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Donald Arthur",
+    "lastName": "Glaser",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Hofstadter",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Rudolf Ludwig",
+    "lastName": "Mössbauer",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Lev Davidovich",
+    "lastName": "Landau",
+    "bornCountry": "Russian Empire (now Azerbaijan)",
+    "bornCountryCode": "AZ",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Eugene Paul",
+    "lastName": "Wigner",
+    "bornCountry": "Austria-Hungary (now Hungary)",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Goeppert Mayer",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "female",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "J. Hans D.",
+    "lastName": "Jensen",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Charles Hard",
+    "lastName": "Townes",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Nicolay Gennadiyevich",
+    "lastName": "Basov",
+    "bornCountry": "USSR (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Aleksandr Mikhailovich",
+    "lastName": "Prokhorov",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sin-Itiro",
+    "lastName": "Tomonaga",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Schwinger",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Richard P.",
+    "lastName": "Feynman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Kastler",
+    "bornCountry": "Germany (now France)",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Hans Albrecht",
+    "lastName": "Bethe",
+    "bornCountry": "Germany (now France)",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Luis Walter",
+    "lastName": "Alvarez",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Murray",
+    "lastName": "Gell-Mann",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Hannes Olof Gösta",
+    "lastName": "Alfvén",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Louis Eugène Félix",
+    "lastName": "Néel",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Gabor",
+    "bornCountry": "Hungary",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Leon Neil",
+    "lastName": "Cooper",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "John Robert",
+    "lastName": "Schrieffer",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Esaki",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Giaever",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Brian David",
+    "lastName": "Josephson",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sir Martin",
+    "lastName": "Ryle",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Antony",
+    "lastName": "Hewish",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Aage Niels",
+    "lastName": "Bohr",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Ben Roy",
+    "lastName": "Mottelson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Leo James",
+    "lastName": "Rainwater",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Burton",
+    "lastName": "Richter",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Samuel Chao Chung",
+    "lastName": "Ting",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Philip Warren",
+    "lastName": "Anderson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sir Nevill Francis",
+    "lastName": "Mott",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "John Hasbrouck",
+    "lastName": "van Vleck",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Pyotr Leonidovich",
+    "lastName": "Kapitsa",
+    "bornCountry": "Russian Empire (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Arno Allan",
+    "lastName": "Penzias",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Robert Woodrow",
+    "lastName": "Wilson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Sheldon Lee",
+    "lastName": "Glashow",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Abdus",
+    "lastName": "Salam",
+    "bornCountry": "India (now Pakistan)",
+    "bornCountryCode": "PK",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Weinberg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "James Watson",
+    "lastName": "Cronin",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Val Logsdon",
+    "lastName": "Fitch",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Nicolaas",
+    "lastName": "Bloembergen",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Arthur Leonard",
+    "lastName": "Schawlow",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Kai M.",
+    "lastName": "Siegbahn",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Kenneth G.",
+    "lastName": "Wilson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Subramanyan",
+    "lastName": "Chandrasekhar",
+    "bornCountry": "India (now Pakistan)",
+    "bornCountryCode": "PK",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "William Alfred",
+    "lastName": "Fowler",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Carlo",
+    "lastName": "Rubbia",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "van der Meer",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Klaus",
+    "lastName": "von Klitzing",
+    "bornCountry": "German-occupied Poland (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Ernst",
+    "lastName": "Ruska",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Gerd",
+    "lastName": "Binnig",
+    "bornCountry": "West Germany (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Heinrich",
+    "lastName": "Rohrer",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "J. Georg",
+    "lastName": "Bednorz",
+    "bornCountry": "West Germany (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "K. Alexander",
+    "lastName": "Müller",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Leon M.",
+    "lastName": "Lederman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Schwartz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Steinberger",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Norman F.",
+    "lastName": "Ramsey",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Hans G.",
+    "lastName": "Dehmelt",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Wolfgang",
+    "lastName": "Paul",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jerome I.",
+    "lastName": "Friedman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Henry W.",
+    "lastName": "Kendall",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Richard E.",
+    "lastName": "Taylor",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Pierre-Gilles",
+    "lastName": "de Gennes",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Georges",
+    "lastName": "Charpak",
+    "bornCountry": "Poland",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Russell A.",
+    "lastName": "Hulse",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Joseph H.",
+    "lastName": "Taylor Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Bertram N.",
+    "lastName": "Brockhouse",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Clifford G.",
+    "lastName": "Shull",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Martin L.",
+    "lastName": "Perl",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Reines",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "David M.",
+    "lastName": "Lee",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Douglas D.",
+    "lastName": "Osheroff",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Robert C.",
+    "lastName": "Richardson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Chu",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Cohen-Tannoudji",
+    "bornCountry": "French Algeria (now Algeria)",
+    "bornCountryCode": "DZ",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "William D.",
+    "lastName": "Phillips",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Robert B.",
+    "lastName": "Laughlin",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Horst L.",
+    "lastName": "Störmer",
+    "bornCountry": "West Germany (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Daniel C.",
+    "lastName": "Tsui",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Gerardus",
+    "lastName": "'t Hooft",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Martinus J.G.",
+    "lastName": "Veltman",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jacobus Henricus",
+    "lastName": "van 't Hoff",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Hermann Emil",
+    "lastName": "Fischer",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Svante August",
+    "lastName": "Arrhenius",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Sir William",
+    "lastName": "Ramsay",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Johann Friedrich Wilhelm Adolf",
+    "lastName": "von Baeyer",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Henri",
+    "lastName": "Moissan",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Eduard",
+    "lastName": "Buchner",
+    "bornCountry": "Bavaria (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ernest",
+    "lastName": "Rutherford",
+    "bornCountry": "New Zealand",
+    "bornCountryCode": "NZ",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Ostwald",
+    "bornCountry": "Russian Empire (now Latvia)",
+    "bornCountryCode": "LV",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Wallach",
+    "bornCountry": "Germany (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Grignard",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Sabatier",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Werner",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Theodore William",
+    "lastName": "Richards",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard Martin",
+    "lastName": "Willstätter",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Fritz",
+    "lastName": "Haber",
+    "bornCountry": "Prussia (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Walther Hermann",
+    "lastName": "Nernst",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Soddy",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Francis William",
+    "lastName": "Aston",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Fritz",
+    "lastName": "Pregl",
+    "bornCountry": "Austria-Hungary (now Slovenia)",
+    "bornCountryCode": "SI",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard Adolf",
+    "lastName": "Zsigmondy",
+    "bornCountry": "Austrian Empire (now Austria)",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "The (Theodor)",
+    "lastName": "Svedberg",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Heinrich Otto",
+    "lastName": "Wieland",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Adolf Otto Reinhold",
+    "lastName": "Windaus",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Harden",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Hans Karl August Simon",
+    "lastName": "von Euler-Chelpin",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Fischer",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Bosch",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Friedrich",
+    "lastName": "Bergius",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Irving",
+    "lastName": "Langmuir",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Harold Clayton",
+    "lastName": "Urey",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Frédéric",
+    "lastName": "Joliot",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Irène",
+    "lastName": "Joliot-Curie",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "female",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Petrus (Peter) Josephus Wilhelmus",
+    "lastName": "Debye",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Walter Norman",
+    "lastName": "Haworth",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Karrer",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Kuhn",
+    "bornCountry": "Austria-Hungary (now Austria)",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Adolf Friedrich Johann",
+    "lastName": "Butenandt",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Leopold",
+    "lastName": "Ruzicka",
+    "bornCountry": "Austria-Hungary (now Croatia)",
+    "bornCountryCode": "HR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "George",
+    "lastName": "de Hevesy",
+    "bornCountry": "Austria-Hungary (now Hungary)",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Hahn",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Artturi Ilmari",
+    "lastName": "Virtanen",
+    "bornCountry": "Russian Empire (now Finland)",
+    "bornCountryCode": "FI",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "James Batcheller",
+    "lastName": "Sumner",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "John Howard",
+    "lastName": "Northrop",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Wendell Meredith",
+    "lastName": "Stanley",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Sir Robert",
+    "lastName": "Robinson",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Arne Wilhelm Kaurin",
+    "lastName": "Tiselius",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "William Francis",
+    "lastName": "Giauque",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Otto Paul Hermann",
+    "lastName": "Diels",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Alder",
+    "bornCountry": "Prussia (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Edwin Mattison",
+    "lastName": "McMillan",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Glenn Theodore",
+    "lastName": "Seaborg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Archer John Porter",
+    "lastName": "Martin",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard Laurence Millington",
+    "lastName": "Synge",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Hermann",
+    "lastName": "Staudinger",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Linus Carl",
+    "lastName": "Pauling",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry",
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "du Vigneaud",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Sir Cyril Norman",
+    "lastName": "Hinshelwood",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Nikolay Nikolaevich",
+    "lastName": "Semenov",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Lord (Alexander R.)",
+    "lastName": "Todd",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Sanger",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry",
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Jaroslav",
+    "lastName": "Heyrovsky",
+    "bornCountry": "Austria-Hungary (now Czech Republic)",
+    "bornCountryCode": "CZ",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Willard Frank",
+    "lastName": "Libby",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Calvin",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Max Ferdinand",
+    "lastName": "Perutz",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "John Cowdery",
+    "lastName": "Kendrew",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Ziegler",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Giulio",
+    "lastName": "Natta",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Dorothy Crowfoot",
+    "lastName": "Hodgkin",
+    "bornCountry": "Egypt",
+    "bornCountryCode": "EG",
+    "gender": "female",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert Burns",
+    "lastName": "Woodward",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert S.",
+    "lastName": "Mulliken",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Manfred",
+    "lastName": "Eigen",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ronald George Wreyford",
+    "lastName": "Norrish",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "George",
+    "lastName": "Porter",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Lars",
+    "lastName": "Onsager",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Derek H. R.",
+    "lastName": "Barton",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Odd",
+    "lastName": "Hassel",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Luis F.",
+    "lastName": "Leloir",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Gerhard",
+    "lastName": "Herzberg",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Christian B.",
+    "lastName": "Anfinsen",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Stanford",
+    "lastName": "Moore",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "William H.",
+    "lastName": "Stein",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ernst Otto",
+    "lastName": "Fischer",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Geoffrey",
+    "lastName": "Wilkinson",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul J.",
+    "lastName": "Flory",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "John Warcup",
+    "lastName": "Cornforth",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Prelog",
+    "bornCountry": "Austria-Hungary (now Bosnia and Herzegovina)",
+    "bornCountryCode": "BA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "William N.",
+    "lastName": "Lipscomb",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ilya",
+    "lastName": "Prigogine",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Peter D.",
+    "lastName": "Mitchell",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Herbert C.",
+    "lastName": "Brown",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Georg",
+    "lastName": "Wittig",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Berg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Gilbert",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Kenichi",
+    "lastName": "Fukui",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Roald",
+    "lastName": "Hoffmann",
+    "bornCountry": "Poland (now Ukraine)",
+    "bornCountryCode": "UA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Klug",
+    "bornCountry": "Lithuania",
+    "bornCountryCode": "LT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Taube",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert Bruce",
+    "lastName": "Merrifield",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Herbert A.",
+    "lastName": "Hauptman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Jerome",
+    "lastName": "Karle",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Dudley R.",
+    "lastName": "Herschbach",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Yuan T.",
+    "lastName": "Lee",
+    "bornCountry": "Taiwan",
+    "bornCountryCode": "TW",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "John C.",
+    "lastName": "Polanyi",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Donald J.",
+    "lastName": "Cram",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Jean-Marie",
+    "lastName": "Lehn",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Charles J.",
+    "lastName": "Pedersen",
+    "bornCountry": "Korea (now South Korea)",
+    "bornCountryCode": "KR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Johann",
+    "lastName": "Deisenhofer",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Huber",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Hartmut",
+    "lastName": "Michel",
+    "bornCountry": "West Germany (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Sidney",
+    "lastName": "Altman",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Thomas R.",
+    "lastName": "Cech",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Elias James",
+    "lastName": "Corey",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard R.",
+    "lastName": "Ernst",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Rudolph A.",
+    "lastName": "Marcus",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Kary B.",
+    "lastName": "Mullis",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "George A.",
+    "lastName": "Olah",
+    "bornCountry": "Hungary",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul J.",
+    "lastName": "Crutzen",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Mario J.",
+    "lastName": "Molina",
+    "bornCountry": "Mexico",
+    "bornCountryCode": "MX",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "F. Sherwood",
+    "lastName": "Rowland",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert F.",
+    "lastName": "Curl Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Sir Harold W.",
+    "lastName": "Kroto",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard E.",
+    "lastName": "Smalley",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul D.",
+    "lastName": "Boyer",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "John E.",
+    "lastName": "Walker",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Jens C.",
+    "lastName": "Skou",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Kohn",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "John A.",
+    "lastName": "Pople",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ahmed H.",
+    "lastName": "Zewail",
+    "bornCountry": "Egypt",
+    "bornCountryCode": "EG",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Emil Adolf",
+    "lastName": "von Behring",
+    "bornCountry": "Prussia (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Ross",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Niels Ryberg",
+    "lastName": "Finsen",
+    "bornCountry": "Faroe Islands (Denmark)",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ivan Petrovich",
+    "lastName": "Pavlov",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Koch",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Camillo",
+    "lastName": "Golgi",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Ramón y Cajal",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Charles Louis Alphonse",
+    "lastName": "Laveran",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ilya Ilyich",
+    "lastName": "Mechnikov",
+    "bornCountry": "Russian Empire (now Ukraine)",
+    "bornCountryCode": "UA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Ehrlich",
+    "bornCountry": "Prussia (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Emil Theodor",
+    "lastName": "Kocher",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Albrecht",
+    "lastName": "Kossel",
+    "bornCountry": "Mecklenburg (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Allvar",
+    "lastName": "Gullstrand",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Carrel",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Charles Robert",
+    "lastName": "Richet",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Bárány",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Jules",
+    "lastName": "Bordet",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Schack August Steenberg",
+    "lastName": "Krogh",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Archibald Vivian",
+    "lastName": "Hill",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Otto Fritz",
+    "lastName": "Meyerhof",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Frederick Grant",
+    "lastName": "Banting",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "John James Rickard",
+    "lastName": "Macleod",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Willem",
+    "lastName": "Einthoven",
+    "bornCountry": "Java, Dutch East Indies (now Indonesia)",
+    "bornCountryCode": "ID",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Johannes Andreas Grib",
+    "lastName": "Fibiger",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Wagner-Jauregg",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Charles Jules Henri",
+    "lastName": "Nicolle",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Christiaan",
+    "lastName": "Eijkman",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Frederick Gowland",
+    "lastName": "Hopkins",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Landsteiner",
+    "bornCountry": "Austrian Empire (now Austria)",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Otto Heinrich",
+    "lastName": "Warburg",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Charles Scott",
+    "lastName": "Sherrington",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edgar Douglas",
+    "lastName": "Adrian",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Thomas Hunt",
+    "lastName": "Morgan",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George Hoyt",
+    "lastName": "Whipple",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George Richards",
+    "lastName": "Minot",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "William Parry",
+    "lastName": "Murphy",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Spemann",
+    "bornCountry": "W&uuml;rttemberg (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Henry Hallett",
+    "lastName": "Dale",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Loewi",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "von Szent-Györgyi Nagyrápolt",
+    "bornCountry": "Austria-Hungary (now Hungary)",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Corneille Jean François",
+    "lastName": "Heymans",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Gerhard",
+    "lastName": "Domagk",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Henrik Carl Peter",
+    "lastName": "Dam",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edward Adelbert",
+    "lastName": "Doisy",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Erlanger",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Herbert Spencer",
+    "lastName": "Gasser",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Alexander",
+    "lastName": "Fleming",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ernst Boris",
+    "lastName": "Chain",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Howard Walter",
+    "lastName": "Florey",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Hermann Joseph",
+    "lastName": "Muller",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Carl Ferdinand",
+    "lastName": "Cori",
+    "bornCountry": "Austria-Hungary (now Czech Republic)",
+    "bornCountryCode": "CZ",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Gerty Theresa",
+    "lastName": "Cori, née Radnitz",
+    "bornCountry": "Austria-Hungary (now Czech Republic)",
+    "bornCountryCode": "CZ",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Bernardo Alberto",
+    "lastName": "Houssay",
+    "bornCountry": "Argentina",
+    "bornCountryCode": "AR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Paul Hermann",
+    "lastName": "Müller",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Walter Rudolf",
+    "lastName": "Hess",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Antonio Caetano de Abreu Freire Egas",
+    "lastName": "Moniz",
+    "bornCountry": "Portugal",
+    "bornCountryCode": "PT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edward Calvin",
+    "lastName": "Kendall",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Tadeus",
+    "lastName": "Reichstein",
+    "bornCountry": "Poland",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Philip Showalter",
+    "lastName": "Hench",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Theiler",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Selman Abraham",
+    "lastName": "Waksman",
+    "bornCountry": "Russian Empire (now Ukraine)",
+    "bornCountryCode": "UA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Hans Adolf",
+    "lastName": "Krebs",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Fritz Albert",
+    "lastName": "Lipmann",
+    "bornCountry": "Germany (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "John Franklin",
+    "lastName": "Enders",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Thomas Huckle",
+    "lastName": "Weller",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Frederick Chapman",
+    "lastName": "Robbins",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Axel Hugo Theodor",
+    "lastName": "Theorell",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "André Frédéric",
+    "lastName": "Cournand",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Werner",
+    "lastName": "Forssmann",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Dickinson W.",
+    "lastName": "Richards",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Bovet",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George Wells",
+    "lastName": "Beadle",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edward Lawrie",
+    "lastName": "Tatum",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Lederberg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Severo",
+    "lastName": "Ochoa",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Kornberg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Frank Macfarlane",
+    "lastName": "Burnet",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Peter Brian",
+    "lastName": "Medawar",
+    "bornCountry": "Brazil",
+    "bornCountryCode": "BR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Georg",
+    "lastName": "von Békésy",
+    "bornCountry": "Hungary",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Francis Harry Compton",
+    "lastName": "Crick",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "James Dewey",
+    "lastName": "Watson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Maurice Hugh Frederick",
+    "lastName": "Wilkins",
+    "bornCountry": "New Zealand",
+    "bornCountryCode": "NZ",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir John Carew",
+    "lastName": "Eccles",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Alan Lloyd",
+    "lastName": "Hodgkin",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Andrew Fielding",
+    "lastName": "Huxley",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Bloch",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Feodor",
+    "lastName": "Lynen",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "François",
+    "lastName": "Jacob",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "André",
+    "lastName": "Lwoff",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Jacques",
+    "lastName": "Monod",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Rous",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Charles Brenton",
+    "lastName": "Huggins",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ragnar",
+    "lastName": "Granit",
+    "bornCountry": "Russian Empire (now Finland)",
+    "bornCountryCode": "FI",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Haldan Keffer",
+    "lastName": "Hartline",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George",
+    "lastName": "Wald",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Robert W.",
+    "lastName": "Holley",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Har Gobind",
+    "lastName": "Khorana",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Marshall W.",
+    "lastName": "Nirenberg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Delbrück",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Alfred D.",
+    "lastName": "Hershey",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Salvador E.",
+    "lastName": "Luria",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Bernard",
+    "lastName": "Katz",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ulf",
+    "lastName": "von Euler",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Axelrod",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Earl W.",
+    "lastName": "Sutherland, Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Gerald M.",
+    "lastName": "Edelman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Rodney R.",
+    "lastName": "Porter",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "von Frisch",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Lorenz",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Nikolaas",
+    "lastName": "Tinbergen",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Claude",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "de Duve",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George E.",
+    "lastName": "Palade",
+    "bornCountry": "Romania",
+    "bornCountryCode": "RO",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Baltimore",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Renato",
+    "lastName": "Dulbecco",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Howard Martin",
+    "lastName": "Temin",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Baruch S.",
+    "lastName": "Blumberg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "D. Carleton",
+    "lastName": "Gajdusek",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Guillemin",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Andrew V.",
+    "lastName": "Schally",
+    "bornCountry": "Poland (now Lithuania)",
+    "bornCountryCode": "LT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Rosalyn",
+    "lastName": "Yalow",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Werner",
+    "lastName": "Arber",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Nathans",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Hamilton O.",
+    "lastName": "Smith",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Allan M.",
+    "lastName": "Cormack",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Godfrey N.",
+    "lastName": "Hounsfield",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Baruj",
+    "lastName": "Benacerraf",
+    "bornCountry": "Venezuela",
+    "bornCountryCode": "VE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Dausset",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George D.",
+    "lastName": "Snell",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Roger W.",
+    "lastName": "Sperry",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "David H.",
+    "lastName": "Hubel",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Torsten N.",
+    "lastName": "Wiesel",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sune K.",
+    "lastName": "Bergström",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Bengt I.",
+    "lastName": "Samuelsson",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "John R.",
+    "lastName": "Vane",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "McClintock",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Niels K.",
+    "lastName": "Jerne",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Georges J.F.",
+    "lastName": "Köhler",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "César",
+    "lastName": "Milstein",
+    "bornCountry": "Argentina",
+    "bornCountryCode": "AR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Michael S.",
+    "lastName": "Brown",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Joseph L.",
+    "lastName": "Goldstein",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Cohen",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Rita",
+    "lastName": "Levi-Montalcini",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Susumu",
+    "lastName": "Tonegawa",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir James W.",
+    "lastName": "Black",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Gertrude B.",
+    "lastName": "Elion",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "George H.",
+    "lastName": "Hitchings",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "J. Michael",
+    "lastName": "Bishop",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Harold E.",
+    "lastName": "Varmus",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Joseph E.",
+    "lastName": "Murray",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "E. Donnall",
+    "lastName": "Thomas",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Erwin",
+    "lastName": "Neher",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Bert",
+    "lastName": "Sakmann",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edmond H.",
+    "lastName": "Fischer",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edwin G.",
+    "lastName": "Krebs",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Richard J.",
+    "lastName": "Roberts",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Phillip A.",
+    "lastName": "Sharp",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Alfred G.",
+    "lastName": "Gilman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Rodbell",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edward B.",
+    "lastName": "Lewis",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Christiane",
+    "lastName": "Nüsslein-Volhard",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Eric F.",
+    "lastName": "Wieschaus",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Peter C.",
+    "lastName": "Doherty",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Rolf M.",
+    "lastName": "Zinkernagel",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Stanley B.",
+    "lastName": "Prusiner",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Robert F.",
+    "lastName": "Furchgott",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Louis J.",
+    "lastName": "Ignarro",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ferid",
+    "lastName": "Murad",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Günter",
+    "lastName": "Blobel",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Jean Henry",
+    "lastName": "Dunant",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Frédéric",
+    "lastName": "Passy",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Élie",
+    "lastName": "Ducommun",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Charles Albert",
+    "lastName": "Gobat",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "William Randal",
+    "lastName": "Cremer",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Institut de droit international (Institute of International Law)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Baroness Bertha Sophie Felicita",
+    "lastName": "von Suttner, née Countess Kinsky von Chinic und Tettau",
+    "bornCountry": "Austrian Empire (now Czech Republic)",
+    "bornCountryCode": "CZ",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Roosevelt",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Ernesto Teodoro",
+    "lastName": "Moneta",
+    "bornCountry": "Austrian Empire (now Italy)",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Renault",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Klas Pontus",
+    "lastName": "Arnoldson",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Fredrik",
+    "lastName": "Bajer",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Auguste Marie François",
+    "lastName": "Beernaert",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Paul Henri Benjamin Balluet",
+    "lastName": "d'Estournelles de Constant, Baron de Constant de Rebecque",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Bureau international permanent de la Paix (Permanent International Peace Bureau)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Tobias Michael Carel",
+    "lastName": "Asser",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Alfred Hermann",
+    "lastName": "Fried",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Elihu",
+    "lastName": "Root",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Henri",
+    "lastName": "La Fontaine",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Comité international de la Croix Rouge (International Committee of the Red Cross)",
+    "gender": "org",
+    "prizes": [
+      "peace",
+      "peace",
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Thomas Woodrow",
+    "lastName": "Wilson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Léon Victor Auguste",
+    "lastName": "Bourgeois",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Karl Hjalmar",
+    "lastName": "Branting",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Christian Lous",
+    "lastName": "Lange",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Fridtjof",
+    "lastName": "Nansen",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Sir Austen",
+    "lastName": "Chamberlain",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Charles Gates",
+    "lastName": "Dawes",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Aristide",
+    "lastName": "Briand",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Stresemann",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Ferdinand",
+    "lastName": "Buisson",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Quidde",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Frank Billings",
+    "lastName": "Kellogg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Lars Olof Jonathan (Nathan)",
+    "lastName": "Söderblom",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Addams",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Nicholas Murray",
+    "lastName": "Butler",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Sir Norman",
+    "lastName": "Angell (Ralph Lane)",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Henderson",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "von Ossietzky",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Saavedra Lamas",
+    "bornCountry": "Argentina",
+    "bornCountryCode": "AR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Cecil of Chelwood, Viscount",
+    "lastName": "(Lord Edgar Algernon Robert Gascoyne Cecil)",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Office international Nansen pour les Réfugiés (Nansen International Office for Refugees)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Cordell",
+    "lastName": "Hull",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Emily Greene",
+    "lastName": "Balch",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "John Raleigh",
+    "lastName": "Mott",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Friends Service Council (The Quakers)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "American Friends Service Committee (The Quakers)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Lord (John)",
+    "lastName": "Boyd Orr of Brechin",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Bunche",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Jouhaux",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Schweitzer",
+    "bornCountry": "Germany (now France)",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "George Catlett",
+    "lastName": "Marshall",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Office of the United Nations High Commissioner for Refugees (UNHCR)",
+    "gender": "org",
+    "prizes": [
+      "peace",
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Lester Bowles",
+    "lastName": "Pearson",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Georges",
+    "lastName": "Pire",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Philip J.",
+    "lastName": "Noel-Baker",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Albert John",
+    "lastName": "Lutuli",
+    "bornCountry": "Southern Rhodesia (now Zimbabwe)",
+    "bornCountryCode": "ZW",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Dag Hjalmar Agne Carl",
+    "lastName": "Hammarskjöld",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Martin Luther",
+    "lastName": "King Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "United Nations Children's Fund (UNICEF)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "René",
+    "lastName": "Cassin",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "International Labour Organization (I.L.O.)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Norman E.",
+    "lastName": "Borlaug",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "Brandt",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Henry A.",
+    "lastName": "Kissinger",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Le Duc Tho",
+    "bornCountry": "Vietnam",
+    "bornCountryCode": "VN",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Seán",
+    "lastName": "MacBride",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Eisaku",
+    "lastName": "Sato",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Andrei Dmitrievich",
+    "lastName": "Sakharov",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Betty",
+    "lastName": "Williams",
+    "bornCountry": "Northern Ireland",
+    "bornCountryCode": "GB",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Mairead",
+    "lastName": "Corrigan",
+    "bornCountry": "Northern Ireland",
+    "bornCountryCode": "GB",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Amnesty International",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Mohamed Anwar",
+    "lastName": "al-Sadat",
+    "bornCountry": "Egypt",
+    "bornCountryCode": "EG",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Menachem",
+    "lastName": "Begin",
+    "bornCountry": "Russian Empire (now Belarus)",
+    "bornCountryCode": "BY",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Mother Teresa",
+    "bornCountry": "Ottoman Empire (now Republic of Macedonia)",
+    "bornCountryCode": "MK",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Adolfo",
+    "lastName": "Pérez Esquivel",
+    "bornCountry": "Argentina",
+    "bornCountryCode": "AR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Myrdal",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Alfonso",
+    "lastName": "García Robles",
+    "bornCountry": "Mexico",
+    "bornCountryCode": "MX",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Lech",
+    "lastName": "Walesa",
+    "bornCountry": "Poland",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Desmond Mpilo",
+    "lastName": "Tutu",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "International Physicians for the Prevention of Nuclear War",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Elie",
+    "lastName": "Wiesel",
+    "bornCountry": "Romania",
+    "bornCountryCode": "RO",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Arias Sánchez",
+    "bornCountry": "Costa Rica",
+    "bornCountryCode": "CR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "United Nations Peacekeeping Forces",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "The 14th Dalai Lama (Tenzin Gyatso)",
+    "bornCountry": "Tibet (now People's Republic of China)",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Mikhail Sergeyevich",
+    "lastName": "Gorbachev",
+    "bornCountry": "USSR (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Aung San Suu Kyi",
+    "bornCountry": "Burma (now Myanmar)",
+    "bornCountryCode": "MM",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Rigoberta",
+    "lastName": "Menchú Tum",
+    "bornCountry": "Guatemala",
+    "bornCountryCode": "GT",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Mandela",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Frederik Willem",
+    "lastName": "de Klerk",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Yasser",
+    "lastName": "Arafat",
+    "bornCountry": "Egypt",
+    "bornCountryCode": "EG",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Shimon",
+    "lastName": "Peres",
+    "bornCountry": "Poland (now Belarus)",
+    "bornCountryCode": "BY",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Yitzhak",
+    "lastName": "Rabin",
+    "bornCountry": "British Mandate of Palestine (now Israel)",
+    "bornCountryCode": "IL",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Rotblat",
+    "bornCountry": "Russian Empire (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Pugwash Conferences on Science and World Affairs",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Carlos Filipe Ximenes",
+    "lastName": "Belo",
+    "bornCountry": "East Timor",
+    "bornCountryCode": "TL",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "José",
+    "lastName": "Ramos-Horta",
+    "bornCountry": "East Timor",
+    "bornCountryCode": "TL",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "International Campaign to Ban Landmines (ICBL)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Jody",
+    "lastName": "Williams",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Hume",
+    "bornCountry": "Northern Ireland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Trimble",
+    "bornCountry": "Northern Ireland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Médecins Sans Frontières",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Sully",
+    "lastName": "Prudhomme",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Christian Matthias Theodor",
+    "lastName": "Mommsen",
+    "bornCountry": "Schleswig (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Bjørnstjerne Martinus",
+    "lastName": "Bjørnson",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Frédéric",
+    "lastName": "Mistral",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "José",
+    "lastName": "Echegaray y Eizaguirre",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Henryk",
+    "lastName": "Sienkiewicz",
+    "bornCountry": "Poland",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Giosuè",
+    "lastName": "Carducci",
+    "bornCountry": "Tuscany (now Italy)",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Rudyard",
+    "lastName": "Kipling",
+    "bornCountry": "British India (now India)",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Rudolf Christoph",
+    "lastName": "Eucken",
+    "bornCountry": "East Friesland (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Selma Ottilia Lovisa",
+    "lastName": "Lagerlöf",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Paul Johann Ludwig",
+    "lastName": "Heyse",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Count Maurice (Mooris) Polidore Marie Bernhard",
+    "lastName": "Maeterlinck",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Gerhart Johann Robert",
+    "lastName": "Hauptmann",
+    "bornCountry": "Prussia (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Rabindranath",
+    "lastName": "Tagore",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Romain",
+    "lastName": "Rolland",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Carl Gustaf Verner",
+    "lastName": "von Heidenstam",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Karl Adolph",
+    "lastName": "Gjellerup",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Henrik",
+    "lastName": "Pontoppidan",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Carl Friedrich Georg",
+    "lastName": "Spitteler",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Knut Pedersen",
+    "lastName": "Hamsun",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Anatole",
+    "lastName": "France",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Jacinto",
+    "lastName": "Benavente",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "William Butler",
+    "lastName": "Yeats",
+    "bornCountry": "Ireland",
+    "bornCountryCode": "IE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Wladyslaw Stanislaw",
+    "lastName": "Reymont",
+    "bornCountry": "Russian Empire (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "George Bernard",
+    "lastName": "Shaw",
+    "bornCountry": "Ireland",
+    "bornCountryCode": "IE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Grazia",
+    "lastName": "Deledda",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Henri",
+    "lastName": "Bergson",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Undset",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Mann",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Sinclair",
+    "lastName": "Lewis",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Erik Axel",
+    "lastName": "Karlfeldt",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Galsworthy",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Ivan Alekseyevich",
+    "lastName": "Bunin",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Luigi",
+    "lastName": "Pirandello",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Eugene Gladstone",
+    "lastName": "O'Neill",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Martin du Gard",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Pearl",
+    "lastName": "Buck",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Frans Eemil",
+    "lastName": "Sillanpää",
+    "bornCountry": "Russian Empire (now Finland)",
+    "bornCountryCode": "FI",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Johannes Vilhelm",
+    "lastName": "Jensen",
+    "bornCountry": "Denmark",
+    "bornCountryCode": "DK",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Gabriela",
+    "lastName": "Mistral",
+    "bornCountry": "Chile",
+    "bornCountryCode": "CL",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Hermann",
+    "lastName": "Hesse",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "André Paul Guillaume",
+    "lastName": "Gide",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Thomas Stearns",
+    "lastName": "Eliot",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Faulkner",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Earl (Bertrand Arthur William)",
+    "lastName": "Russell",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Pär Fabian",
+    "lastName": "Lagerkvist",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "François",
+    "lastName": "Mauriac",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Sir Winston Leonard Spencer",
+    "lastName": "Churchill",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Ernest Miller",
+    "lastName": "Hemingway",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Halldór Kiljan",
+    "lastName": "Laxness",
+    "bornCountry": "Iceland",
+    "bornCountryCode": "IS",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Juan Ramón",
+    "lastName": "Jiménez",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Camus",
+    "bornCountry": "French Algeria (now Algeria)",
+    "bornCountryCode": "DZ",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Boris Leonidovich",
+    "lastName": "Pasternak",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Salvatore",
+    "lastName": "Quasimodo",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Saint-John",
+    "lastName": "Perse",
+    "bornCountry": "Guadeloupe Island",
+    "bornCountryCode": "GP",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Ivo",
+    "lastName": "Andric",
+    "bornCountry": "Bosnia (now Bosnia and Herzegovina)",
+    "bornCountryCode": "BA",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Steinbeck",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Giorgos",
+    "lastName": "Seferis",
+    "bornCountry": "Ottoman Empire (now Turkey)",
+    "bornCountryCode": "TR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Jean-Paul",
+    "lastName": "Sartre",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Mikhail Aleksandrovich",
+    "lastName": "Sholokhov",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Shmuel Yosef",
+    "lastName": "Agnon",
+    "bornCountry": "Austria-Hungary (now Ukraine)",
+    "bornCountryCode": "UA",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Nelly",
+    "lastName": "Sachs",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Miguel Angel",
+    "lastName": "Asturias",
+    "bornCountry": "Guatemala",
+    "bornCountryCode": "GT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Yasunari",
+    "lastName": "Kawabata",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Beckett",
+    "bornCountry": "Ireland",
+    "bornCountryCode": "IE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Aleksandr Isayevich",
+    "lastName": "Solzhenitsyn",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Neruda",
+    "bornCountry": "Chile",
+    "bornCountryCode": "CL",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Heinrich",
+    "lastName": "Böll",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "White",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Eyvind",
+    "lastName": "Johnson",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Martinson",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Eugenio",
+    "lastName": "Montale",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Saul",
+    "lastName": "Bellow",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Vicente",
+    "lastName": "Aleixandre",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Isaac Bashevis",
+    "lastName": "Singer",
+    "bornCountry": "Russian Empire (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Odysseus",
+    "lastName": "Elytis",
+    "bornCountry": "Crete (now Greece)",
+    "bornCountryCode": "GR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Czeslaw",
+    "lastName": "Milosz",
+    "bornCountry": "Russian Empire (now Lithuania)",
+    "bornCountryCode": "LT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Canetti",
+    "bornCountry": "Bulgaria",
+    "bornCountryCode": "BG",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "García Márquez",
+    "bornCountry": "Colombia",
+    "bornCountryCode": "CO",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Golding",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Jaroslav",
+    "lastName": "Seifert",
+    "bornCountry": "Austria-Hungary (now Czech Republic)",
+    "bornCountryCode": "CZ",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Simon",
+    "bornCountry": "Madagascar",
+    "bornCountryCode": "MG",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Wole",
+    "lastName": "Soyinka",
+    "bornCountry": "Nigeria",
+    "bornCountryCode": "NG",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Brodsky",
+    "bornCountry": "USSR (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Naguib",
+    "lastName": "Mahfouz",
+    "bornCountry": "Egypt",
+    "bornCountryCode": "EG",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Camilo José",
+    "lastName": "Cela",
+    "bornCountry": "Spain",
+    "bornCountryCode": "ES",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Octavio",
+    "lastName": "Paz",
+    "bornCountry": "Mexico",
+    "bornCountryCode": "MX",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Nadine",
+    "lastName": "Gordimer",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Derek",
+    "lastName": "Walcott",
+    "bornCountry": "Saint Lucia",
+    "bornCountryCode": "LC",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Morrison",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Kenzaburo",
+    "lastName": "Oe",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Seamus",
+    "lastName": "Heaney",
+    "bornCountry": "Northern Ireland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Wislawa",
+    "lastName": "Szymborska",
+    "bornCountry": "Poland",
+    "bornCountryCode": "PL",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Dario",
+    "lastName": "Fo",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "José",
+    "lastName": "Saramago",
+    "bornCountry": "Portugal",
+    "bornCountryCode": "PT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Günter",
+    "lastName": "Grass",
+    "bornCountry": "Free City of Danzig (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Ragnar",
+    "lastName": "Frisch",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Tinbergen",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Paul A.",
+    "lastName": "Samuelson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Kuznets",
+    "bornCountry": "Russian Empire (now Belarus)",
+    "bornCountryCode": "BY",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "John R.",
+    "lastName": "Hicks",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Kenneth J.",
+    "lastName": "Arrow",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Wassily",
+    "lastName": "Leontief",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Myrdal",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Friedrich August",
+    "lastName": "von Hayek",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Leonid Vitaliyevich",
+    "lastName": "Kantorovich",
+    "bornCountry": "Russian Empire (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Tjalling C.",
+    "lastName": "Koopmans",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Friedman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Bertil",
+    "lastName": "Ohlin",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "James E.",
+    "lastName": "Meade",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Herbert A.",
+    "lastName": "Simon",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Theodore W.",
+    "lastName": "Schultz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Sir Arthur",
+    "lastName": "Lewis",
+    "bornCountry": "British West Indies (now Saint Lucia)",
+    "bornCountryCode": "LC",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Lawrence R.",
+    "lastName": "Klein",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Tobin",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "George J.",
+    "lastName": "Stigler",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Gerard",
+    "lastName": "Debreu",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Stone",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Franco",
+    "lastName": "Modigliani",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "James M.",
+    "lastName": "Buchanan Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert M.",
+    "lastName": "Solow",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Allais",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Trygve",
+    "lastName": "Haavelmo",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Harry M.",
+    "lastName": "Markowitz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Merton H.",
+    "lastName": "Miller",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "William F.",
+    "lastName": "Sharpe",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Ronald H.",
+    "lastName": "Coase",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Gary S.",
+    "lastName": "Becker",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert W.",
+    "lastName": "Fogel",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Douglass C.",
+    "lastName": "North",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "John C.",
+    "lastName": "Harsanyi",
+    "bornCountry": "Hungary",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "John F.",
+    "lastName": "Nash Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Reinhard",
+    "lastName": "Selten",
+    "bornCountry": "Germany (now Poland)",
+    "bornCountryCode": "PL",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert E.",
+    "lastName": "Lucas Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "James A.",
+    "lastName": "Mirrlees",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Vickrey",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert C.",
+    "lastName": "Merton",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Myron S.",
+    "lastName": "Scholes",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Amartya",
+    "lastName": "Sen",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert A.",
+    "lastName": "Mundell",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Il´ja Mikhailovich",
+    "lastName": "Frank",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Carlsson",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Greengard",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Eric R.",
+    "lastName": "Kandel",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Dae-jung",
+    "bornCountry": "Korea (now South Korea)",
+    "bornCountryCode": "KR",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Zhores I.",
+    "lastName": "Alferov",
+    "bornCountry": "USSR (now Belarus)",
+    "bornCountryCode": "BY",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Kroemer",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jack S.",
+    "lastName": "Kilby",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Alan J.",
+    "lastName": "Heeger",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Alan G.",
+    "lastName": "MacDiarmid",
+    "bornCountry": "New Zealand",
+    "bornCountryCode": "NZ",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Hideki",
+    "lastName": "Shirakawa",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "James J.",
+    "lastName": "Heckman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Daniel L.",
+    "lastName": "McFadden",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Gao",
+    "lastName": "Xingjian",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Leland H.",
+    "lastName": "Hartwell",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Hunt",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Paul M.",
+    "lastName": "Nurse",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Eric A.",
+    "lastName": "Cornell",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Wolfgang",
+    "lastName": "Ketterle",
+    "bornCountry": "West Germany (now Germany)",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Carl E.",
+    "lastName": "Wieman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "William S.",
+    "lastName": "Knowles",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ryoji",
+    "lastName": "Noyori",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "K. Barry",
+    "lastName": "Sharpless",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "George A.",
+    "lastName": "Akerlof",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "A. Michael",
+    "lastName": "Spence",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Joseph E.",
+    "lastName": "Stiglitz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Sir Vidiadhar Surajprasad",
+    "lastName": "Naipaul",
+    "bornCountry": "Trinidad",
+    "bornCountryCode": "TT",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "United Nations (U.N.)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Kofi",
+    "lastName": "Annan",
+    "bornCountry": "Gold Coast (now Ghana)",
+    "bornCountryCode": "GH",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Sydney",
+    "lastName": "Brenner",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "H. Robert",
+    "lastName": "Horvitz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "John E.",
+    "lastName": "Sulston",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Davis Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Masatoshi",
+    "lastName": "Koshiba",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Riccardo",
+    "lastName": "Giacconi",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "John B.",
+    "lastName": "Fenn",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Koichi",
+    "lastName": "Tanaka",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Wüthrich",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Kahneman",
+    "bornCountry": "British Mandate of Palestine (now Israel)",
+    "bornCountryCode": "IL",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Vernon L.",
+    "lastName": "Smith",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Imre",
+    "lastName": "Kertész",
+    "bornCountry": "Hungary",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Carter",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "John M.",
+    "lastName": "Coetzee",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Paul C.",
+    "lastName": "Lauterbur",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Peter",
+    "lastName": "Mansfield",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Alexei A.",
+    "lastName": "Abrikosov",
+    "bornCountry": "USSR (now Russia)",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Vitaly L.",
+    "lastName": "Ginzburg",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Anthony J.",
+    "lastName": "Leggett",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Agre",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Roderick",
+    "lastName": "MacKinnon",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert F.",
+    "lastName": "Engle III",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Clive W.J.",
+    "lastName": "Granger",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Shirin",
+    "lastName": "Ebadi",
+    "bornCountry": "Iran",
+    "bornCountryCode": "IR",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Axel",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Linda B.",
+    "lastName": "Buck",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "David J.",
+    "lastName": "Gross",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "H. David",
+    "lastName": "Politzer",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Wilczek",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Ciechanover",
+    "bornCountry": "British Protectorate of Palestine (now Israel)",
+    "bornCountryCode": "IL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Avram",
+    "lastName": "Hershko",
+    "bornCountry": "Hungary",
+    "bornCountryCode": "HU",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Irwin",
+    "lastName": "Rose",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Elfriede",
+    "lastName": "Jelinek",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Wangari Muta",
+    "lastName": "Maathai",
+    "bornCountry": "Kenya",
+    "bornCountryCode": "KE",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Finn E.",
+    "lastName": "Kydland",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Edward C.",
+    "lastName": "Prescott",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Barry J.",
+    "lastName": "Marshall",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "J. Robin",
+    "lastName": "Warren",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Roy J.",
+    "lastName": "Glauber",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "John L.",
+    "lastName": "Hall",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Theodor W.",
+    "lastName": "Hänsch",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Yves",
+    "lastName": "Chauvin",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Robert H.",
+    "lastName": "Grubbs",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard R.",
+    "lastName": "Schrock",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "International Atomic Energy Agency (IAEA)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Mohamed",
+    "lastName": "ElBaradei",
+    "bornCountry": "Egypt",
+    "bornCountryCode": "EG",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Robert J.",
+    "lastName": "Aumann",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Thomas C.",
+    "lastName": "Schelling",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Harold",
+    "lastName": "Pinter",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Andrew Z.",
+    "lastName": "Fire",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Craig C.",
+    "lastName": "Mello",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "John C.",
+    "lastName": "Mather",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "George F.",
+    "lastName": "Smoot",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Roger D.",
+    "lastName": "Kornberg",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Edmund S.",
+    "lastName": "Phelps",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Orhan",
+    "lastName": "Pamuk",
+    "bornCountry": "Turkey",
+    "bornCountryCode": "TR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Muhammad",
+    "lastName": "Yunus",
+    "bornCountry": "British India (now Bangladesh)",
+    "bornCountryCode": "BD",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Grameen Bank",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Mario R.",
+    "lastName": "Capecchi",
+    "bornCountry": "Italy",
+    "bornCountryCode": "IT",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Sir Martin J.",
+    "lastName": "Evans",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Smithies",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Fert",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Grünberg",
+    "bornCountry": "Czechoslovakia (now Czech Republic)",
+    "bornCountryCode": "CZ",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Gerhard",
+    "lastName": "Ertl",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Doris",
+    "lastName": "Lessing",
+    "bornCountry": "Persia (now Iran)",
+    "bornCountryCode": "IR",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Intergovernmental Panel on Climate Change (IPCC)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Albert Arnold (Al)",
+    "lastName": "Gore Jr.",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Leonid",
+    "lastName": "Hurwicz",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Eric S.",
+    "lastName": "Maskin",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Roger B.",
+    "lastName": "Myerson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Harald",
+    "lastName": "zur Hausen",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Françoise",
+    "lastName": "Barré-Sinoussi",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Luc",
+    "lastName": "Montagnier",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Yoichiro",
+    "lastName": "Nambu",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Makoto",
+    "lastName": "Kobayashi",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Toshihide",
+    "lastName": "Maskawa",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Osamu",
+    "lastName": "Shimomura",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Chalfie",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Roger Y.",
+    "lastName": "Tsien",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Jean-Marie Gustave",
+    "lastName": "Le Clézio",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Martti",
+    "lastName": "Ahtisaari",
+    "bornCountry": "Finland",
+    "bornCountryCode": "FI",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Krugman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Elizabeth H.",
+    "lastName": "Blackburn",
+    "bornCountry": "Australia",
+    "bornCountryCode": "AU",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Carol W.",
+    "lastName": "Greider",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Jack W.",
+    "lastName": "Szostak",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Charles Kuen",
+    "lastName": "Kao",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Willard S.",
+    "lastName": "Boyle",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "George E.",
+    "lastName": "Smith",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Venkatraman",
+    "lastName": "Ramakrishnan",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Thomas A.",
+    "lastName": "Steitz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ada E.",
+    "lastName": "Yonath",
+    "bornCountry": "British Mandate of Palestine (now Israel)",
+    "bornCountryCode": "IL",
+    "gender": "female",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Herta",
+    "lastName": "Müller",
+    "bornCountry": "Romania",
+    "bornCountryCode": "RO",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Barack H.",
+    "lastName": "Obama",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Elinor",
+    "lastName": "Ostrom",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "female",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Oliver E.",
+    "lastName": "Williamson",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert G.",
+    "lastName": "Edwards",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Geim",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Konstantin",
+    "lastName": "Novoselov",
+    "bornCountry": "Russia",
+    "bornCountryCode": "RU",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Richard F.",
+    "lastName": "Heck",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Ei-ichi",
+    "lastName": "Negishi",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Akira",
+    "lastName": "Suzuki",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Vargas Llosa",
+    "bornCountry": "Peru",
+    "bornCountryCode": "PE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Liu",
+    "lastName": "Xiaobo",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Peter A.",
+    "lastName": "Diamond",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Dale T.",
+    "lastName": "Mortensen",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Christopher A.",
+    "lastName": "Pissarides",
+    "bornCountry": "Cyprus",
+    "bornCountryCode": "CY",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Bruce A.",
+    "lastName": "Beutler",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Jules A.",
+    "lastName": "Hoffmann",
+    "bornCountry": "Luxembourg",
+    "bornCountryCode": "LU",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Ralph M.",
+    "lastName": "Steinman",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Saul",
+    "lastName": "Perlmutter",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Brian P.",
+    "lastName": "Schmidt",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Adam G.",
+    "lastName": "Riess",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Shechtman",
+    "bornCountry": "British Mandate of Palestine (now Israel)",
+    "bornCountryCode": "IL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Tranströmer",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Johnson Sirleaf",
+    "bornCountry": "Liberia",
+    "bornCountryCode": "LR",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Leymah",
+    "lastName": "Gbowee",
+    "bornCountry": "Liberia",
+    "bornCountryCode": "LR",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Tawakkol",
+    "lastName": "Karman",
+    "bornCountry": "Yemen",
+    "bornCountryCode": "YE",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Thomas J.",
+    "lastName": "Sargent",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Christopher A.",
+    "lastName": "Sims",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Sir John B.",
+    "lastName": "Gurdon",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Shinya",
+    "lastName": "Yamanaka",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Serge",
+    "lastName": "Haroche",
+    "bornCountry": "Morocco",
+    "bornCountryCode": "MA",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "David J.",
+    "lastName": "Wineland",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Robert J.",
+    "lastName": "Lefkowitz",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Brian K.",
+    "lastName": "Kobilka",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Mo",
+    "lastName": "Yan",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "European Union (EU)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Alvin E.",
+    "lastName": "Roth",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Lloyd S.",
+    "lastName": "Shapley",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "James E.",
+    "lastName": "Rothman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Randy W.",
+    "lastName": "Schekman",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Thomas C.",
+    "lastName": "Südhof",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "François",
+    "lastName": "Englert",
+    "bornCountry": "Belgium",
+    "bornCountryCode": "BE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Peter W.",
+    "lastName": "Higgs",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Karplus",
+    "bornCountry": "Austria",
+    "bornCountryCode": "AT",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Levitt",
+    "bornCountry": "South Africa",
+    "bornCountryCode": "ZA",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Arieh",
+    "lastName": "Warshel",
+    "bornCountry": "British Mandate of Palestine (now Israel)",
+    "bornCountryCode": "IL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Munro",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Organisation for the Prohibition of Chemical Weapons (OPCW)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Eugene F.",
+    "lastName": "Fama",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Lars Peter",
+    "lastName": "Hansen",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Robert J.",
+    "lastName": "Shiller",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "gender": "male",
+    "prizes": [
+      null
+    ]
+  },
+  {
+    "gender": "male",
+    "prizes": [
+      null
+    ]
+  },
+  {
+    "gender": "male",
+    "prizes": [
+      null
+    ]
+  },
+  {
+    "gender": "male",
+    "prizes": [
+      null
+    ]
+  },
+  {
+    "gender": "male",
+    "prizes": [
+      null
+    ]
+  },
+  {
+    "gender": "male",
+    "prizes": [
+      null
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "O'Keefe",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "May-Britt",
+    "lastName": "Moser",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Edvard I.",
+    "lastName": "Moser",
+    "bornCountry": "Norway",
+    "bornCountryCode": "NO",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Isamu",
+    "lastName": "Akasaki",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Hiroshi",
+    "lastName": "Amano",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Shuji",
+    "lastName": "Nakamura",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Betzig",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Stefan W.",
+    "lastName": "Hell",
+    "bornCountry": "Romania",
+    "bornCountryCode": "RO",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "William E.",
+    "lastName": "Moerner",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Modiano",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Kailash",
+    "lastName": "Satyarthi",
+    "bornCountry": "India",
+    "bornCountryCode": "IN",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Malala",
+    "lastName": "Yousafzai",
+    "bornCountry": "Pakistan",
+    "bornCountryCode": "PK",
+    "gender": "female",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Tirole",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "William C.",
+    "lastName": "Campbell",
+    "bornCountry": "Ireland",
+    "bornCountryCode": "IE",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Satoshi",
+    "lastName": "Ōmura",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Youyou",
+    "lastName": "Tu",
+    "bornCountry": "China",
+    "bornCountryCode": "CN",
+    "gender": "female",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Takaaki",
+    "lastName": "Kajita",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Arthur B.",
+    "lastName": "McDonald",
+    "bornCountry": "Canada",
+    "bornCountryCode": "CA",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Lindahl",
+    "bornCountry": "Sweden",
+    "bornCountryCode": "SE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Modrich",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Aziz",
+    "lastName": "Sancar",
+    "bornCountry": "Turkey",
+    "bornCountryCode": "TR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Svetlana",
+    "lastName": "Alexievich",
+    "bornCountry": "Ukraine",
+    "bornCountryCode": "UA",
+    "gender": "female",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "National Dialogue Quartet",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Angus",
+    "lastName": "Deaton",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Yoshinori",
+    "lastName": "Ohsumi",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "David J.",
+    "lastName": "Thouless",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "F. Duncan M.",
+    "lastName": "Haldane",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "J. Michael",
+    "lastName": "Kosterlitz",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jean-Pierre",
+    "lastName": "Sauvage",
+    "bornCountry": "France",
+    "bornCountryCode": "FR",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Sir J. Fraser",
+    "lastName": "Stoddart",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Bernard L.",
+    "lastName": "Feringa",
+    "bornCountry": "the Netherlands",
+    "bornCountryCode": "NL",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Juan Manuel",
+    "lastName": "Santos",
+    "bornCountry": "Colombia",
+    "bornCountryCode": "CO",
+    "gender": "male",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Hart",
+    "bornCountry": "United Kingdom",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Bengt",
+    "lastName": "Holmström",
+    "bornCountry": "Finland",
+    "bornCountryCode": "FI",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Dylan",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "Jeffrey C.",
+    "lastName": "Hall",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Rosbash",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Michael W.",
+    "lastName": "Young",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "medicine"
+    ]
+  },
+  {
+    "firstName": "Rainer",
+    "lastName": "Weiss",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Barry C.",
+    "lastName": "Barish",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Kip S.",
+    "lastName": "Thorne",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "physics"
+    ]
+  },
+  {
+    "firstName": "Jacques",
+    "lastName": "Dubochet",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Joachim",
+    "lastName": "Frank",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Henderson",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "gender": "male",
+    "prizes": [
+      "chemistry"
+    ]
+  },
+  {
+    "firstName": "Kazuo",
+    "lastName": "Ishiguro",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "gender": "male",
+    "prizes": [
+      "literature"
+    ]
+  },
+  {
+    "firstName": "International Campaign to Abolish Nuclear Weapons (ICAN)",
+    "gender": "org",
+    "prizes": [
+      "peace"
+    ]
+  },
+  {
+    "firstName": "Richard H.",
+    "lastName": "Thaler",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "gender": "male",
+    "prizes": [
+      "economics"
+    ]
+  }
+]
