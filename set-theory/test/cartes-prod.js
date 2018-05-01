@@ -56,7 +56,7 @@ describe("Cartesian product of non-empty set-like objects", function() {
 	});
 });
 
-describe("Edge cases", function() {
+describe("Cartesian Product: edge cases", function() {
 	it("[1,2,3]x[]", function() {
 		let retv = Cartes([1,2,3], []);
 		assert.deepStrictEqual(retv, [ ]);
