@@ -40,5 +40,15 @@ describe("evaluating arithmetic expressions, no variables", function() {
 			-3
 		]);
 	});
+
+	describe("edge cases", function() {
+		it("empty expression", function() {
+			assert.equal(evalLine(""), undefined);
+		});
+
+		it("superflous (balanced) parentheses", function() {
+			assert.equal(evalLine("(((1+2)))"), 3);
+		});
+	});
 });
 

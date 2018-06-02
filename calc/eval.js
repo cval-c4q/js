@@ -97,10 +97,12 @@ function evalLine(line) {
 	if (line.length == 0)
 		return;
 	let tokens = tokenizeLine(line);
-	if (tokens.length == 0)
+	if (tokens.length == 0) {
 		return undefined;
-	else
-		return stmt(tokens.slice(1), tokens[0])[0];
+	} else {
+		const retv = stmt(tokens.slice(1), tokens[0]);
+		return retv ? retv[0] : undefined;
+	}
 }
 
 const opPrecedence = {
@@ -133,9 +135,14 @@ function execOp(opA, op, opB) {
 	}
 }
 
+/**
+ *  Defines a DEBUG helper routine that only generates output if a variable
+ *  VERBOSE is defined and truthy under the current scope of execution
+ */
 if (typeof DEBUG !== "function") {
 	DEBUG = (...args) => {
-		if (typeof process !== "undefined" && process.env && process.env.VERBOSE
+		if (typeof VERBOSE !== "undefined" && VERBOSE
+			|| typeof process !== "undefined" && process.env && process.env.VERBOSE
 			|| typeof window !== "undefined" && window.VERBOSE
 			|| typeof global !== "undefined" && global.VERBOSE)
 			console.log(...args);
@@ -210,20 +217,20 @@ function expr(tokens, tok, precedenceLevel=0, parensLevel=0) {
 				[ opB, tokens ] = expr(tokens.slice(2), tokens[1], prec, parensLevel);
 				tokValue = execOp(tokValue, op, opB);
 			}
-		}
-
-		// Handle explicit parenthesizing
-		// XXX: specialized checking for extra )) here? currently left to stmt()
-		if (tokens.length > 0 && tokens[0].type == TOKEN_RPARENS) {
-			// Preserve rparens and return to caller for balance checking purposes
-			DEBUG(spFMT()+"RPAR: tok: ",tok, ", tokens:", tokens.map(t=>t.value));
-		}
-
-		DEBUG(spFMT()+"-TRACE: expr: precLevel: %d, parensLevel: %d", precedenceLevel, parensLevel);
-		DEBUG(spFMT()+"        expr: tokens:", tokens.map(t=>t.value), ", tokValue:", tokValue);
-
-		return [tokValue, tokens];
 	}
+
+	// Handle explicit parenthesizing
+	// XXX: specialized checking for extra )) here? currently left to stmt()
+	if (tokens.length > 0 && tokens[0].type == TOKEN_RPARENS) {
+		// Preserve rparens and return to caller for balance checking purposes
+		DEBUG(spFMT()+"RPAR: tok: ",tok, ", tokens:", tokens.map(t=>t.value));
+	}
+
+	DEBUG(spFMT()+"-TRACE: expr: precLevel: %d, parensLevel: %d", precedenceLevel, parensLevel);
+	DEBUG(spFMT()+"        expr: tokens:", tokens.map(t=>t.value), ", tokValue:", tokValue);
+
+	return [tokValue, tokens];
+}
 }
 
 /**
