@@ -81,8 +81,8 @@ function tokenizeLine(line) {
 /**
  *  Evaluate: tokenizes then recusively starts interpreting statement(s)
  *  Recursive descent parsing passes its operands down in a non-destructive
- *  manner: the intermediate/temporary copies on the stack are modified but the
- *  original is not.
+ *  manner: the intermediate/temporary copies on the call stack are mutated
+ *  but the original is not.
  *
  *  The descent functions all return their result in the standard format of
  *  [return-value, [ rest-of-tokens ]]
@@ -133,12 +133,36 @@ function execOp(opA, op, opB) {
 	}
 }
 
+if (typeof DEBUG !== "function") {
+	DEBUG = (...args) => {
+		if (typeof process !== "undefined" && process.env && process.env.VERBOSE
+			|| typeof window !== "undefined" && window.VERBOSE
+			|| typeof global !== "undefined" && global.VERBOSE)
+			console.log(...args);
+	}
+}
+
 function expr(tokens, tok, precedenceLevel=0, parensLevel=0) {
-	//console.log("\nTRACE: expr: precLevel: %d, parensLevel: %d", precedenceLevel, parensLevel);
-	//console.log("TRACE: expr: tokens:", tokens.map(t=>t.value), ", tok:", tok.value);
+	spFMT = () => "   ".repeat(parensLevel);
+
+	DEBUG(spFMT()+"+TRACE: expr: precLevel: %d, parensLevel: %d", precedenceLevel, parensLevel);
+	DEBUG(spFMT()+"        expr: tok:", tok.value, ", tokens:", tokens.map(t=>t.value));
 	if (tok.type == TOKEN_LPARENS) {
-		return expr(tokens.slice(1), tokens[0], precedenceLevel, parensLevel+1);
-	} else if (tok.type == TOKEN_OPERATOR) { // "+" | "-"
+		let retv = expr(tokens.slice(1), tokens[0], 0, parensLevel+1);
+		// Maintain balance of parens
+		if (retv[1][0] === undefined || retv[1][0].type !== TOKEN_RPARENS) {
+			console.log(`Unmatched left parenthesis (@level ${parensLevel+1})`);
+			return [undefined, tokens];
+		}
+
+		// Plug back result of parenthesized expression and resume evaluation
+		retv[1].shift();
+		if (retv[0] == undefined || retv[1].length < 1) {
+			// end of expression or error
+			return retv;
+		}
+		return expr(retv[1], { type: TOKEN_NUMERIC, value: retv[0] }, precedenceLevel, parensLevel);
+	} else if (tok.type == TOKEN_OPERATOR) { // "+" | "-", etc...
 		let numTok = {};
 
 		if (tokens.length == 0) {
@@ -158,7 +182,7 @@ function expr(tokens, tok, precedenceLevel=0, parensLevel=0) {
 
 		numTok.value *= tok.value == "+" ? 1 : -1;
 		return expr(tokens.slice(1), numTok);
-	} else {
+	} else { // Not an operator or lparens
 		let tokValue;
 
 		// Fetch variable from symbol table if needed
@@ -171,12 +195,7 @@ function expr(tokens, tok, precedenceLevel=0, parensLevel=0) {
 		} else
 			tokValue = tok.value;
 
-		// Handle explicit parenthesizing
-		if (tokens.length > 0 && tokens[0].type == TOKEN_RPARENS) {
-			tokens = tokens.slice(1);
-			// return, decreasing parensLevel
-			// console.log("Explicit parens: tokens:", tokens.map(t=>t.value));
-		} else while (tokens.length > 0 && tokens[0].type == TOKEN_OPERATOR) {
+		while (tokens.length > 0 && tokens[0].type == TOKEN_OPERATOR) {
 			/* Recurse over any terms left */
 			const prec = opPrecedence[tokens[0].value];
 			if (prec <= precedenceLevel) {
@@ -192,6 +211,16 @@ function expr(tokens, tok, precedenceLevel=0, parensLevel=0) {
 				tokValue = execOp(tokValue, op, opB);
 			}
 		}
+
+		// Handle explicit parenthesizing
+		// XXX: specialized checking for extra )) here? currently left to stmt()
+		if (tokens.length > 0 && tokens[0].type == TOKEN_RPARENS) {
+			// Preserve rparens and return to caller for balance checking purposes
+			DEBUG(spFMT()+"RPAR: tok: ",tok, ", tokens:", tokens.map(t=>t.value));
+		}
+
+		DEBUG(spFMT()+"-TRACE: expr: precLevel: %d, parensLevel: %d", precedenceLevel, parensLevel);
+		DEBUG(spFMT()+"        expr: tokens:", tokens.map(t=>t.value), ", tokValue:", tokValue);
 
 		return [tokValue, tokens];
 	}
@@ -218,9 +247,9 @@ function stmt(tokens, tok) {
 		else if (tok.type == TOKEN_OPERATOR && (tok.value == "+" || tok.value == "-") // (+/-) must initiate an expr
 			|| tok.type == TOKEN_NUMERIC	// numeric token is start of an expr
 			|| tok.type == TOKEN_IDENTIFIER && // identifier...
-				!(tokens.length > 1 && tokens[0].type == TOKEN_OPERATOR &&
-					tokens[1].type == TOKEN_EQUALS // ...but not an 'ID [OP]=<...>'
-					|| tokens.length > 0 && tokens[0].type == TOKEN_EQUALS) // ...or an 'ID=<...>'
+			!(tokens.length > 1 && tokens[0].type == TOKEN_OPERATOR &&
+				tokens[1].type == TOKEN_EQUALS // ...but not an 'ID [OP]=<...>'
+				|| tokens.length > 0 && tokens[0].type == TOKEN_EQUALS) // ...or an 'ID=<...>'
 			|| tok.type == TOKEN_LPARENS) // an explicit left parenthesis
 		{
 			retv = expr(tokens, tok);
@@ -228,8 +257,8 @@ function stmt(tokens, tok) {
 		}
 		/* Assignment statements */
 		else if (tok.type == TOKEN_IDENTIFIER &&
-				(tokens.length > 1 && tokens[0].type == TOKEN_OPERATOR && tokens[1].type == TOKEN_EQUALS
-					|| tokens.length > 0 && tokens[0].type == TOKEN_EQUALS)) {
+			(tokens.length > 1 && tokens[0].type == TOKEN_OPERATOR && tokens[1].type == TOKEN_EQUALS
+				|| tokens.length > 0 && tokens[0].type == TOKEN_EQUALS)) {
 			retv = assign(tokens, tok)
 		} else {
 			console.log("Syntax error: Invalid statement starting with '%s'.", tok.value);
